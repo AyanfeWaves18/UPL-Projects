@@ -330,7 +330,6 @@ button:active {
   cursor: pointer;
   transition: all 0.3s ease;
 }
-
 @media (max-width: 1200px) {
   .container {
     grid-template-columns: 1fr;
